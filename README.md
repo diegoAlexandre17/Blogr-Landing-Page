@@ -11,8 +11,7 @@ Los usuarios deben poder:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Blogr](https://diegoalexandre17.github.io/Blogr-Landing-Page/)
 
 ## Mi proceso
 
@@ -30,6 +29,5 @@ En este proyecto aprendi a realizar un menu responsive, ademas de visualizar/ocu
 
 ## Author:
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@diegoAlexandre17](https://www.frontendmentor.io/profile/diegoAlexandre17)
 - Twitter - [@darf_132](https://www.twitter.com/darf_132)
