@@ -47,7 +47,7 @@ body {
       var(--gradient-light-red) 0%,
       var(--gradient-very-light-red) 100%
     ),
-    url("../../images/bg-pattern-intro.svg");
+    url("images/bg-pattern-intro.svg");
   background-repeat: no-repeat;
   background-size: 266% 135%;
   background-position: 39% 100%;
@@ -116,7 +116,7 @@ body {
   width: 1rem;
   height: 1rem;
   display: inline-block;
-  background-image: url("../../images/icon-arrow-dark.svg");
+  background-image: url("images/icon-arrow-dark.svg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -193,7 +193,7 @@ main {
 
 .design__img {
   height: 330px;
-  background-image: url("../../images/illustration-editor-mobile.svg");
+  background-image: url("images/illustration-editor-mobile.svg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -218,7 +218,7 @@ main {
       var(--very-dark-gray-blue) 0%,
       var(--very-dark-desaturated-blue) 100%
     ),
-    /*arreglar el gradiente!*/ url("../../images/bg-pattern-circles.svg");
+    /*arreglar el gradiente!*/ url("images/bg-pattern-circles.svg");
   background-repeat: no-repeat;
   /* background-size: 149% 78%; */
   background-size: cover;
@@ -242,7 +242,7 @@ main {
 
 .description__figure {
   height: 350px;
-  background-image: url("../../images/illustration-laptop-mobile.svg");
+  background-image: url("images/illustration-laptop-mobile.svg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -323,7 +323,7 @@ MEDIA QUERY 768PX
 
   .design__img {
     height: 400px;
-    background-image: url(../../images/illustration-editor-mobile.svg);
+    background-image: url("images/illustration-editor-mobile.svg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
@@ -337,7 +337,7 @@ MEDIA QUERY 768PX
 
   .description__figure {
     height: 484px;
-    background-image: url(../../images/illustration-laptop-mobile.svg);
+    background-image: url("images/illustration-laptop-mobile.svg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -446,7 +446,7 @@ MEDIA QUERY 1000PX
     margin-right: 1.5rem;
     width: 9px;
     height: 9px;
-    background-image: url(../../images/icon-arrow-light.svg);
+    background-image: url("images/icon-arrow-light.svg");
   }
 
   .nav__buttons {
@@ -498,7 +498,7 @@ MEDIA QUERY 1000PX
   }
 
   .description__figure {
-    background-image: url(../../images/illustration-laptop-desktop.svg);
+    background-image: url("images/illustration-laptop-desktop.svg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
@@ -506,7 +506,7 @@ MEDIA QUERY 1000PX
   }
 
   .design__img {
-    background-image: url("../../images/illustration-editor-desktop.svg");
+    background-image: url("images/illustration-editor-desktop.svg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
