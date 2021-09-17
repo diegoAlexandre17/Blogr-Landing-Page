@@ -331,8 +331,8 @@ MEDIA QUERY 768PX
 
   .infrastructure__img,
   .description__img {
-    width: 110%;
-    margin: 0 10px;
+    width: 90%;
+    margin: 0 22px;
   }
 
   .description__figure {
