@@ -192,7 +192,7 @@ main {
 }
 
 .design__img {
-  height: 330px;
+  height: 282px;
   background-image: url("../images/illustration-editor-mobile.svg");
   background-repeat: no-repeat;
   background-position: center;
@@ -250,7 +250,7 @@ main {
 
 .infrastructure__img,
 .description__img {
-  width: 90%;
+  width: 85%;
   margin: 0 20px;
 }
 
@@ -331,8 +331,8 @@ MEDIA QUERY 768PX
 
   .infrastructure__img,
   .description__img {
-    width: 80%;
-    margin: 0 150px;
+    width: 110%;
+    margin: 0 10px;
   }
 
   .description__figure {
